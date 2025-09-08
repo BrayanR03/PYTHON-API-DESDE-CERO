@@ -68,7 +68,7 @@ Cada uno dentro de su propia “caja”, sin interferir entre sí.
         Con esto, tu proyecto queda completamente vinculado al entorno virtual.
 
 
-📖 **Siguiente paso →** [03_instalacion_librerias.md](https://github.com/BrayanR03/API-EN-FASTAPI-DESDE-CERO/blob/main/ApiDesdeCero/documentation/03_instalacion_librerías.md)  
+📖 **Siguiente paso →** [03_instalacion_librerias.md](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/documentation/03_instalacion_librer%C3%ADas.md)  
 En el siguiente archivo aprenderás a instalar las **librerías y dependencias** necesarias para el desarrollo del proyecto.
 
 ---
