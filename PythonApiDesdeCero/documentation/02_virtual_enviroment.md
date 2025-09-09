@@ -1,4 +1,4 @@
-# 📌 CAPÍTULO 02: VIRTUAL ENVIRONMENTS
+# 📌 CAPÍTULO 02. VIRTUAL ENVIRONMENTS
 
 En Python, cada proyecto puede requerir diferentes librerías y versiones.  
 Un error común es instalar dependencias de forma global en el sistema, lo que puede provocar **conflictos** entre proyectos.
@@ -24,8 +24,10 @@ Cada uno dentro de su propia “caja”, sin interferir entre sí.
 ## 🚀 Pasos para crear un Virtual Environment en tu proyecto
 
 1. **Crea una carpeta para tu proyecto**  
-   Ejemplo: `ApiDesdeCero`.
+   Ejemplo: `PythonApiDesdeCero`.
 
+1.5 **Dentro de esta carpeta crearemos una subcarpeta llamada development**
+   Ejemplo: `PythonApiDesdeCero/development`
 2. **Abre tu editor de código**  
    (Visual Studio Code u otro de tu preferencia).  
 
@@ -37,9 +39,12 @@ Cada uno dentro de su propia “caja”, sin interferir entre sí.
    ```bash
    # Sintaxis
    python -m venv nombreVirtualEnv
-
+   
+   ```
    # Ejemplo (convención recomendada)
+   ```bash
    python -m venv venv
+   ```
 
 5. **Activar el entorno virtual**
     Dependiendo del sistema operativo, la activación se realiza de la siguiente forma:
@@ -47,10 +52,12 @@ Cada uno dentro de su propia “caja”, sin interferir entre sí.
     - **Windows (CMD o PowerShell):**
     ```bash
     venv\Scripts\activate
+    ```
 
     - **En macOS/Linux:**
     ```bash
     source venv/bin/activate
+    ```
 
 6. **Configurar el intérprete en tu editor**
 

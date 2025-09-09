@@ -6,7 +6,7 @@ integrando todo lo que necesitas para fortalecer tu portafolio y conocimientos t
 
 ---
 
-## 📌 01. CREACIÓN DE UNA API DESDE CERO
+## 📌 CAPÍTULO 01. CREACIÓN DE UNA API DESDE CERO
 
 En este primer documento, estableceremos las **bases** de lo que será nuestro proyecto.  
 Aquí encontrarás la **visión general** y la **metodología** que seguiremos para construir,  
