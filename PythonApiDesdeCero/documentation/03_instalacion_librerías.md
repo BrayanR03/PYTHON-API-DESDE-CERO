@@ -1,4 +1,4 @@
-# 📌 CAPÍTULO 02. INSTALACIÓN DE LIBRERIAS
+# 📌 CAPÍTULO 03. INSTALACIÓN DE LIBRERIAS
 
 En este capítulo nos enfocaremos en instalar las **primeras librerías necesarias** para nuestro proyecto.  
 La idea es comenzar con lo esencial, evitando instalar todo desde el inicio. Conforme avancemos en los 
@@ -40,6 +40,9 @@ Con este comando se instala:
     * FastAPI → framework principal para crear nuestra API.
 
     * Uvicorn → servidor ASGI que nos permitirá ejecutar la API en localhost.
+
+Y tranquilo, todas las letras, números que veas scrollear en tu terminal son todos los paquetes internos de FastAPI.
+No te estan hackeando!!.
 
 🔍 ¿Por qué usar Uvicorn?
 
