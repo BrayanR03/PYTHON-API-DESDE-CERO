@@ -24,8 +24,8 @@ Cada archivo funciona como una **guía secuencial** que te permitirá comprender
 ## 🛣️ Roadmap de la serie  
 
 - [x] 📘 Introducción y fundamentos de FastAPI  
-- [ ] ⚙️ Creación de un entorno virtual y primera app  
-- [ ] 🛠️ Endpoints básicos (GET, POST, PUT, DELETE)  
+- [x] ⚙️ Creación de un entorno virtual y primera app  
+- [-] 🛠️ Endpoints básicos (GET, POST, PUT, DELETE)  
 - [ ] 📦 Manejo de datos con **Pydantic**  
 - [ ] 🗄️ Conexión a una base de datos (MongoDB)  
 - [ ] 🔐 Autenticación y autorización (JWT)  
