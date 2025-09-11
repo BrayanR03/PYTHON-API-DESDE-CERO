@@ -28,7 +28,6 @@ app = FastAPI() ## Contexto de FastAPI y nombre de instancia utilizado en uvicor
 @app.get("/") ## Ruta por defecto 
 async def main():
     return {"message":"Hola Mundo desde FastAPI!!!"}
-
 ```
 #### 3. Levantar el servidor con Uvicorn
 En la terminal, debemos aseguranos que apunte a la carpeta donde se encuentra nuestro archivo **main.py**
@@ -51,14 +50,13 @@ acceder a la API desde tu navegador en:
 http://127.0.0.1:8000
 
 http://localhost:8000
-
 ```
 Verificar imagenes [salida_terminal.png](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/assets/salida_terminal.png) y [navegador_respuesta.png](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/assets/navegador_respuesta.png)
 
 
 
-📖 **Siguiente paso →** [05_peticiones_http.md](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/documentation/05_peticiones_http.md)  
-En el siguiente archivo aprenderás sobre las peticiones http que utilizaremos en la API a desarrollar.
+#### 📖 Siguiente paso → [05_peticiones_http.md](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/documentation/05_peticiones_http.md)  
+##### En el siguiente archivo aprenderás sobre las peticiones http que utilizaremos en la API a desarrollar.
 ---
 
 # Sobre el autor  

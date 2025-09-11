@@ -39,7 +39,6 @@ Cada uno dentro de su propia “caja”, sin interferir entre sí.
    ```bash
    # Sintaxis
    python -m venv nombreVirtualEnv
-   
    ```
    # Ejemplo (convención recomendada)
    ```bash

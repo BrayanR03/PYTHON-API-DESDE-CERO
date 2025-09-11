@@ -18,13 +18,11 @@ Esto es importante para que las librerías se instalen únicamente en este entor
 Ejemplo de activación en Windows:
 ```bash
 venv\Scripts\activate
-
 ```
 
 Ejemplo de activación en Linux/Mac:
 ```bash
 source venv/bin/activate
-
 ```
 
 #### 3. Instalar FastAPI y Uvicorn
@@ -33,7 +31,6 @@ Para iniciar, instalaremos FastAPI junto con Uvicorn, el servidor local que nos 
 Ejecuta el siguiente comando en la terminal:
 ```bash
 pip install fastapi[all]
-
 ```
 Con este comando se instala:
 
@@ -52,8 +49,8 @@ levantar el proyecto en modo local y validar su funcionamiento conforme avancemo
 construcción de nuestra API.
 
 
-📖 **Siguiente paso →** [04_levantar_api_primer_archivo.md](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/documentation/04_levantar_api_primer_archivo.md)  
-En el siguiente archivo aprenderás a levantar la API mediante la creación del archivo principal **main**.
+#### 📖 Siguiente paso → [04_levantar_api_primer_archivo.md](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/documentation/04_levantar_api_primer_archivo.md)  
+#### En el siguiente archivo aprenderás a levantar la API mediante la creación del archivo principal **main**.
 ---
 
 # Sobre el autor  
