@@ -65,7 +65,7 @@ async def main():
 Ahora bien, una vez que ya conocimos todo lo referente a un `endpoint` podemos revisar el archivo [peticiones_http.py](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/development/peticiones_http.py) directamente para un mayor detalle de cada petición HTTP.
 
 ---
-### 📖 Siguiente paso → [06_logica_peticiones_http.md](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/documentation/05_peticiones_http.md)  
+### 📖 Siguiente paso → [06_logica_peticiones_http.md](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/documentation/06_logica_peticiones_http.md)  
 #### En el siguiente archivo aprenderás a manejar lógica en cada petición http que utilizaremos en la API a desarrollar, mediante datos simulados.
 ---
 # Sobre el autor  
