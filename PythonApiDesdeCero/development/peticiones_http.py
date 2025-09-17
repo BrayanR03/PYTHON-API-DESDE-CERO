@@ -51,3 +51,4 @@ async def peticion_delete():
         permite interactuar con los endpoint de una API en el caso del envío de datos a través
         de la red mediante HTTP. 
 """
+## ✅ LEVANTAR ESTA API ➡️ uvicorn peticiones_http:app --reload

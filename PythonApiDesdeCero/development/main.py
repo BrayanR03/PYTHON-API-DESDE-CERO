@@ -34,3 +34,4 @@ async def main():
     - Además, deben ser asíncronas "async" para que el resto del sistema funciones
       sin ningún problema ante la demora de un endpoint.
 """
+## ✅ LEVANTAR ESTA API ➡️ uvicorn main:app --reload
