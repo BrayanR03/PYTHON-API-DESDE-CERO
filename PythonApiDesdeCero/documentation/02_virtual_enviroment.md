@@ -81,7 +81,7 @@ En el siguiente archivo aprenderás a instalar las **librerías y dependencias**
 
 # Sobre el autor  
 
-Gracias por leer este primer capítulo 🔥.  
+Gracias por leer este segundo capítulo 🔥.  
 
 🔗 Conéctate conmigo en mis redes y sigue de cerca mi contenido:  
 - [LinkedIn](https://www.linkedin.com/in/brayan-rafael-neciosup-bola%C3%B1os-407a59246/)  

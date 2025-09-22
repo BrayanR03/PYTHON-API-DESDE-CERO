@@ -70,7 +70,7 @@ Ahora bien, una vez que ya conocimos todo lo referente a un `endpoint` podemos r
 ---
 # Sobre el autor  
 
-Gracias por leer este primer capítulo 🔥.  
+Gracias por leer este quinto capítulo 🔥.  
 
 🔗 Conéctate conmigo en mis redes y sigue de cerca mi contenido:  
 - [LinkedIn](https://www.linkedin.com/in/brayan-rafael-neciosup-bola%C3%B1os-407a59246/)  
