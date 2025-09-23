@@ -77,10 +77,4 @@ async def eliminar_producto(id:int):
         ## return {"message":"No existe el producto a eliminar"} ## ⬅️ Mensaje de respuesta de error utilizado con anterioridad.
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND,detail="El producto a eliminar no existe!!")
 
-## 💡 Pero, esto no tiene sentido, porque en caso algo falle, crees que
-##    la respuesta del status code sea 200 OK?.
-
-## 💡 Verificar archivo modificado : peticiones_con_status_code.py
-
-
 ## ✅ LEVANTAR ESTA API ➡️ uvicorn peticiones_http_simulador:app --reload
