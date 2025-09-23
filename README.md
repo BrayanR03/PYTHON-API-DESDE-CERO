@@ -25,10 +25,12 @@ Cada archivo funciona como una **guía secuencial** que te permitirá comprender
 
 - [x] 📘 Introducción y fundamentos de FastAPI  
 - [x] ⚙️ Creación de un entorno virtual y primera app  
-- [-] 🛠️ Endpoints básicos (GET, POST, PUT, DELETE)  
-- [ ] 📦 Manejo de datos con **Pydantic**  
+- [x] 🛠️ Endpoints básicos (GET, POST, PUT, DELETE)  
+- [x] 📦 Manejo de datos con **Pydantic**  
+- [x] 📦 Manejo de códigos de respuesta de endpoints con **Status Code**
+- [ ] 📦 Routers y Jerarquías en FastAPI  
+- [ ] 🔐 Autenticación y autorización (JWT)
 - [ ] 🗄️ Conexión a una base de datos (MongoDB)  
-- [ ] 🔐 Autenticación y autorización (JWT)  
 - [ ] 🧩 Modularización del proyecto  
 - [ ] 📑 Documentación automática con Swagger / Redoc  
 - [ ] 🚀 Buenas prácticas y despliegue en la nube  
