@@ -1,6 +1,6 @@
 from fastapi import FastAPI ## ⬅️ Importamos librería FastAPI
 from pydantic import BaseModel ## ⬅️ Importamos librería para el formato adecuado de datos
-from fastapi import HTTPException
+from fastapi import HTTPException ## ⬅️ Importamos librería para el manejo correcto de errores en los endpoints
 from fastapi import status
 
 app = FastAPI() ## Establecemos el contexto de FastAPI
