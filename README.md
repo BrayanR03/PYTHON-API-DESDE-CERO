@@ -31,7 +31,7 @@ Cada archivo funciona como una **guía secuencial** que te permitirá comprender
 - [x] 📦 Routers y Jerarquías en FastAPI
 - [x] 🔐 Archivos estáticos en FastAPI
 - [x] 🔐 Autenticación básica
-- [ ] 🔐 Autenticación y autorización (JWT)
+- [x] 🔐 Autenticación y autorización (JWT)
 - [ ] 🗄️ Conexión a una base de datos (MongoDB)  
 - [ ] 🧩 Modularización del proyecto  
 - [ ] 📑 Documentación automática con Swagger / Redoc  
