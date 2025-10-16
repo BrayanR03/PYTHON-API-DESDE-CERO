@@ -34,7 +34,9 @@ pip install passlib[bcrypt]  # ⬅️ Librería para cifrar contraseñas mediant
 ### 🔎 Flujo de trabajo de la autenticación JWT (JSON Web Token)
 
 La estructura del flujo JWT es similar a la autenticación básica, pero con pasos adicionales para encriptar, desencriptar y validar el token.
-A continuación, se explican los pasos específicos del flujo JWT:
+En el archivo `usuarios.py` dentro de 
+[API_auth_jwt/](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/development/API_auth_jwt/routers/usuarios.py)
+encontraremos más detalles del código. A continuación, se explican los pasos específicos del flujo JWT:
 
 ---
 

@@ -34,7 +34,7 @@ from fastapi.security import OAuth2PasswordRequestForm
 
 ---
 ### 🔎 Flujo de trabajo de la autenticación
-Para comprender de forma completa cómo funciona una autenticación y cómo se gestiona el acceso a recursos protegidos, analizaremos el archivo `usuarios.py`, ubicado en la carpeta [API_auth_basica/](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/development/API_auth_basica/routers/). En este archivo se desarrolla todo el proceso correspondiente a una **autenticación básica** dentro de nuestra API.
+Para comprender de forma completa cómo funciona una autenticación y cómo se gestiona el acceso a recursos protegidos, analizaremos el archivo `usuarios.py`, ubicado en la carpeta [API_auth_basica/](https://github.com/BrayanR03/PYTHON-API-DESDE-CERO/blob/main/PythonApiDesdeCero/development/API_auth_basica/routers/usuarios.py). En este archivo se desarrolla todo el proceso correspondiente a una **autenticación básica** dentro de nuestra API.
 
 Sin embargo, en este capítulo no solo veremos el código, sino que entenderemos **el orden de ejecución y la lógica interna** detrás de cada parte del archivo `usuarios.py`. Y puede surgir la pregunta: **¿por qué analizarlo paso a paso?**
 
