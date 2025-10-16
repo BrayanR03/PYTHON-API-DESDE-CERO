@@ -28,10 +28,9 @@ Cada archivo funciona como una **guía secuencial** que te permitirá comprender
 - [x] 🛠️ Endpoints básicos (GET, POST, PUT, DELETE)  
 - [x] 📦 Manejo de datos con **Pydantic**  
 - [x] 📦 Manejo de códigos de respuesta de endpoints con **Status Code**
-- [x] 📦 Routers y Jerarquías en FastAPI  
-- [x] 🔐 Autenticación básica
 - [x] 📦 Routers y Jerarquías en FastAPI
 - [x] 🔐 Archivos estáticos en FastAPI
+- [x] 🔐 Autenticación básica
 - [ ] 🔐 Autenticación y autorización (JWT)
 - [ ] 🗄️ Conexión a una base de datos (MongoDB)  
 - [ ] 🧩 Modularización del proyecto  
